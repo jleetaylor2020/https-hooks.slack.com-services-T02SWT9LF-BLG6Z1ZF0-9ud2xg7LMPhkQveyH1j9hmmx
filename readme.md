@@ -1,1 +1,1 @@
-Testinig circle ci + github repo + pantheon build tools
+Test circle ci + github repo + pantheon build tools
